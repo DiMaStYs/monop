@@ -1,0 +1,9 @@
+1)/					//Вход в систему(login.html)
+2)/registration		//Регистрация в системе(registration.html)
+3)/rooms			//Страница с комнатами(rooms.html)
+4)/create_room		//Страница для создания комнат(create_room.html)
+5)/rooms/&			//Страница & комнаты(game.html)
+6)/rooms/&/b		//Страница ожидающими процессами, ожидающие перевода от
+					банка(confirmation_bank.html)
+7)/rooms/&/c		//Страница с одобренным переводом(confirmation.html)
+8)/rooms/&/h		//Страница с историей(history.html)
